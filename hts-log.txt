@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Jul 2022 12:08:05 at https://www.zavodmel.ru/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ru, en, *" https://www.zavodmel.ru/ -O1 "D:\MegaFronTeam\WORK 2021\_Inc Project\inWork\0010Kalina2\0010Kalina2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:10:05	Error: 	"Method Not Allowed" (405) at link https://www.zavodmel.ru/xmlrpc.php (from https://www.zavodmel.ru/)
+12:14:07	Error: 	"Not Found" (404) at link https://www.zavodmel.ru/wp-content/themes/scape2/library/css/library/images/loader.gif (from https://www.zavodmel.ru/wp-content/themes/scape2/library/css/app.css)
+12:16:57	Warning: 	Retry after error -5 (Unable to open local file) at link file:////users/khuorshed/Library/Group Containers/UBF8T346G9.Office/msoclip1/01/clip_image001.png (from https://www.zavodmel.ru/politika-v-otnoshenii-obrabotki-personalnyh-dannyh/)
+12:17:00	Warning: 	Moved Permanently for https://www.zavodmel.ru/author/korobitsinaes/
+12:17:00	Warning: 	File has moved from https://www.zavodmel.ru/author/korobitsinaes/ to https://www.zavodmel.ru
+12:18:37	Warning: 	Moved Permanently for https://www.zavodmel.ru/author/admin/
+12:18:37	Warning: 	File has moved from https://www.zavodmel.ru/author/admin/ to https://www.zavodmel.ru
+12:19:13	Warning: 	Moved Permanently for https://www.zavodmel.ru/author/ekaterina/
+12:19:13	Warning: 	File has moved from https://www.zavodmel.ru/author/ekaterina/ to https://www.zavodmel.ru
+12:20:31	Warning: 	Retry after error -5 (Unable to open local file) at link file:////users/khuorshed/Library/Group Containers/UBF8T346G9.Office/msoclip1/01/clip_image001.png (from https://www.zavodmel.ru/politika-v-otnoshenii-obrabotki-personalnyh-dannyh/)
+12:20:54	Error: 	"Unable to open local file" (-5) after 2 retries at link file:////users/khuorshed/Library/Group Containers/UBF8T346G9.Office/msoclip1/01/clip_image001.png (from https://www.zavodmel.ru/politika-v-otnoshenii-obrabotki-personalnyh-dannyh/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 49 seconds : 611 links scanned, 602 files written (161783596 bytes overall) [142644332 bytes received at 185493 bytes/sec], 23914576 bytes transferred using HTTP compression in 402 files, ratio 18%, 21.6 requests per connection
+(3 errors, 8 warnings, 0 messages)
